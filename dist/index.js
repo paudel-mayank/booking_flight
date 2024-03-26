@@ -1,3 +1,3 @@
-"use strict";
-const user = "shyam";
+var user = "shyam";
 console.log(user);
+//# sourceMappingURL=index.js.map
